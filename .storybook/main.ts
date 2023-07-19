@@ -13,6 +13,7 @@ const config: StorybookConfig = {
     "@storybook/addon-a11y",
     "@storybook/addon-actions",
     "@storybook/addon-viewport",
+    "@storybook/addon-designs",
   ],
   framework: {
     name: "@storybook/nextjs",
